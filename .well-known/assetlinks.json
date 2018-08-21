@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.onthespot.onthespot.order",
+    "package_name": "com.onthespot.onthespot.app",
     "sha256_cert_fingerprints":
     ["4E:BD:48:C5:16:BC:23:1C:DA:60:5C:52:77:09:AF:AF:80:CA:62:EE:38:0A:CF:D5:91:F3:C0:37:DD:44:AC:27"]
   }
